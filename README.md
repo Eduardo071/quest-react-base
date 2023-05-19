@@ -1,6 +1,6 @@
 # Meu primeiro React App
 
-[](public/project-react-base.png)
+![Screenshot](public/project-react-base.png)
 
 
 
