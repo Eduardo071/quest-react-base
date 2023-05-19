@@ -4,7 +4,7 @@
 
 
 
-## Available Scripts
+## Objetivo do projeto
 
 Esse projeto teve como objetivo um teste de conhecimento básico sobre react.
 
